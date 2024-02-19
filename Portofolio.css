@@ -147,6 +147,7 @@ body {
   .home-page {
     height: 100%;
     align-items: center;
+    background-size: 600px;
   }
   .home-content {
     margin-left: 70px;
@@ -165,6 +166,7 @@ body {
 
 @media screen and (max-width: 750px) {
   .home-page {
+    background-size: 500px;
     height: 100%;
     align-items: center;
   }
@@ -187,6 +189,7 @@ body {
   .home-page {
     height: 100%;
     align-items: center;
+    background-size: 400px;
   }
   .home-content {
     margin-left: 25px;
@@ -476,21 +479,16 @@ body {
     align-items: flex-start;
     padding: 0;
     padding-left: 1em;
+    background-size: 600px;
   }
   .contact-container {
     margin-top: 150px;
-  }
-  .contact-img {
-    width: 500px;
   }
 }
 
 @media screen and (max-width: 630px) {
   .contact-page {
-    background-size: 700px;
-  }
-  .contact-img {
-    width: 400px;
+    background-size: 400px;
   }
 }
 @media screen and (max-width: 400px) {
