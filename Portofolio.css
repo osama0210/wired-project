@@ -442,7 +442,7 @@ body {
 }
 
 .contact-container {
-  margin-left: 7em;
+  padding-left: 2em;
   flex-direction: column;
   gap: 1em;
 }
@@ -486,6 +486,9 @@ body {
 }
 
 @media screen and (max-width: 630px) {
+  .contact-page {
+    background-size: 700px;
+  }
   .contact-img {
     width: 400px;
   }
