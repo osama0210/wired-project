@@ -250,7 +250,6 @@ body {
   height: 100%;
   overflow: hidden;
   align-items: center;
-  justify-content: flex-start;
 }
 
 .about-content {
@@ -260,10 +259,8 @@ body {
 }
 
 .about-txt {
-  justify-content: center;
   flex-direction: column;
   gap: 0px;
-  margin-left: 100px;
 }
 
 .txt1 {
@@ -445,7 +442,7 @@ body {
 }
 
 .contact-container {
-  margin-left: 2em;
+  margin-left: 7em;
   flex-direction: column;
   gap: 1em;
 }
