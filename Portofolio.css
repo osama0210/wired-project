@@ -11,7 +11,7 @@
 
 @font-face {
   font-family: myFont;
-  src: url(../../../../Library/Fonts/WIREDsaji.ttf);
+  src: url(website-font.ttf);
 }
 
 html,
@@ -460,7 +460,7 @@ body {
 }
 
 .contact-icons a {
-  color: black;
+  color: white;
 }
 
 .contact-icons .bi {
